@@ -19,28 +19,21 @@ Here are some ideas to get you started:
 
 I'm a passionate full-stack developer who loves turning ideas into impactful software. I specialize in building scalable web applications, and I enjoy working at the intersection of technology, collaboration, and community.
 
----
-
 ## 🛠️ My Tech Stack
 
 - **Languages**: Go, PHP (Laravel), JavaScript, Python (Flask), SQL  
 - **Frameworks**: Laravel, Flask, Vue.js    
-
----
 
 
 ## 🤝 Collaboration & Community
 
 I believe in learning through doing, mentoring others, and giving back to the community. I’ve had the privilege of volunteering with IEEE LINK as a **Webmaster (2024–24)**, where I built platforms, managed infrastructure, and collaborated with diverse student teams.
 
----
 
 ## 📫 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/benison-abraham))
+- 🌐 [LinkedIn](https://www.linkedin.com/in/benison-abraham)
 - 📨 Email: benisonkt@gmail.com
-
----
 
 Thanks for stopping by! Feel free to explore my repositories to see more of what I’m building.
 
